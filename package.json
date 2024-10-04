@@ -1,5 +1,5 @@
 {
-  "name": "telegram-bot",
+  "name": "your-bot-name",
   "version": "1.0.0",
   "description": "Un bot Telegram per calcolare la differenza tra due date",
   "main": "bot.js",
